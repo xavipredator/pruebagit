@@ -1,0 +1,4 @@
+hola amigo!
+estoy probando si funciona git y sus comandos para alojar esto en github
+
+si puedes leer esto es porque fue todo un éxito.
